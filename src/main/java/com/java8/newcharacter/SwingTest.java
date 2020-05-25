@@ -1,4 +1,4 @@
-package com.java8.exer;
+package com.java8.newcharacter;
 
 import javax.swing.*;
 
